@@ -11,6 +11,7 @@ This project contains a method to extract unique integer values from a given str
 ## Example
 
 If you pass the string `"2 2 2 8 8 3 0 0 10 3 8 8"` to the method, it will return `2 8 3 0 10`. The order does not matter, so it could also return `0 2 3 8 10`.
+![image](https://github.com/dikmenonur/uniqnumber/assets/3075597/ecedd758-09ef-4d53-b092-b5ae84af7da1)
 
 ## Method Implementation
 
