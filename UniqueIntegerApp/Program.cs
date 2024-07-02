@@ -23,7 +23,6 @@
                 uniqueIntegers.Add(number);
             } // If parsing fails, the non-integer string is ignored.
         }
-
         // 6. Convert the HashSet (containing unique integers) into a List for easier manipulation and return it.
         return new List<int>(uniqueIntegers);
     }
